@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
