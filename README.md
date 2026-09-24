@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0225-implement-stack-using-queues) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
