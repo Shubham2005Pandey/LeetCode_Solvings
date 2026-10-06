@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
