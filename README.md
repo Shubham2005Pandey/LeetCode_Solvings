@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
 | [0724-find-pivot-index](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
