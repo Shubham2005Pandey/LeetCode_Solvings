@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
 | [0724-find-pivot-index](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/1480-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0456-132-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
