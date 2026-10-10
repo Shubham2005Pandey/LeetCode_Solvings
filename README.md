@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
