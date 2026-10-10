@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0088-merge-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shubham2005Pandey/LeetCode_Solvings/tree/master/1582-special-positions-in-a-binary-matrix) |
